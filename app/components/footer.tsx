@@ -12,7 +12,7 @@ export default function Footer() {
           </span>
           <div className='flex items-center gap-2'>
             <Link
-              to='https://www.instagram.com/'
+              to='https://www.instagram.com/premkonsult1'
               aria-label='Instagram'
               className='hover:opacity-80 transition-opacity'
             >
@@ -24,14 +24,14 @@ export default function Footer() {
               />
             </Link>
             <Link
-              to='https://www.facebook.com/'
+              to='https://www.facebook.com/premkonsult1'
               aria-label='Facebook'
               className='hover:opacity-80 transition-opacity'
             >
               <img src='/facebook.svg' alt='Facebook' width={24} height={24} />
             </Link>
             <Link
-              to='https://www.youtube.com/'
+              to='https://www.youtube.com/@premkonsult1'
               aria-label='YouTube'
               className='hover:opacity-80 transition-opacity'
             >
